@@ -1,11 +1,14 @@
 # Summary
 
+## Introduction
+
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [Get started](chapter1.md)
 
 ## &lt;FrontEnd/&gt;
 
-* Angular
-* NodeJS
-* [Meteor](angular.md)
+* [&lt;--Angular--&gt;](angular.md)
+* [Angular theory](angular-theory.md)
+* [Angular practice](angular-practice.md)
+* [NodeJS](nodejs.md)
 
