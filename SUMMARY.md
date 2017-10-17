@@ -5,7 +5,7 @@
 * [Introduction](README.md)
 * [Get started](chapter1.md)
 
-## &lt;FrontEnd/&gt;
+## FrontEnd
 
 * [&lt;--Angular--&gt;](angular.md)
 * [Angular theory](angular-theory.md)
